@@ -1,0 +1,25 @@
+const skills = [
+  "php.svg",
+  "laravel-2.svg",
+  "codeigniter.svg",
+  "mysql-3.svg",
+  "react.svg",
+  "bootstrap-5-1.svg",
+  "js.svg",
+  "html.svg",
+  "css.svg",
+  "jquery-2.svg",
+  "postman.svg",
+  "android-svgrepo-com.svg",
+  "java-svgrepo-com.svg",
+  "redux.svg",
+  "nodejs.svg",
+  "python-5.svg",
+  "git.svg",
+  "github.svg",
+  "google-ads-2.svg",
+  "shopify.svg",
+  "meta-icon.svg",
+]; 
+
+export default skills;
