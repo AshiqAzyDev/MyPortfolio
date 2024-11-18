@@ -27,3 +27,4 @@ Animated Backgrounds: Includes parallax star and dot wave animations to make the
 Contact Form: Integrated contact form with Fluent Forms to receive messages directly.
 Interactive UI Elements: Includes popups, modals, and other interactive components.
 SEO-Optimized: Enhanced for better search engine visibility.
+Thanks!
