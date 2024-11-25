@@ -6,7 +6,7 @@ const calculateExperienceYears = (startYear) => {
 };
 
 const userData = {
-  firstName: "<Aaaashique",
+  firstName: "<Ashique",
   lastName: " P Raj/>",
   title: "About Me",
   img: "/MyPortfolio/ash (2).jpg", 
