@@ -1,18 +1,18 @@
 const socials = [
   {
-    icon: "/MyPortfolio/github.svg",
+    icon: "/github.svg",
     url: "https://github.com/AshiqAzyDev",
   },
   {
-    icon: "/MyPortfolio/linkedin.svg",
+    icon: "/linkedin.svg",
     url: "https://www.linkedin.com/in/ashique-p-raj-91b67217a/",
   },
   {
-    icon: "/MyPortfolio/instagram.svg",
+    icon: "/instagram.svg",
     url: "https://www.instagram.com/ashiq_azy/",
   },
   {
-    icon: "/MyPortfolio/facebook.svg",
+    icon: "/facebook.svg",
     url: "https://www.facebook.com/Ashiqazy/",
   },
 ];
