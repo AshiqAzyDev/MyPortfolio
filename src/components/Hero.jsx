@@ -66,7 +66,7 @@ const Hero = (props) => {
       <div className="hero-socials">
         {socials.map((social, index) => (
           <a key={index} href={social.url} target="_blank" rel="noopener noreferrer">
-            <img src={`/socials/${social.icon}`} alt={social.name} />
+            <img src={`/MyPortfolio/socials/${social.icon}`} alt={social.name} />
           </a>
         ))}
       </div>
